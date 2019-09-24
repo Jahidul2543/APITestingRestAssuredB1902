@@ -1,0 +1,13 @@
+{
+    "fields": {
+       "project":
+       { 
+          "key": "B1902"
+       },
+       "summary": "Creating Issue form REST Automation Framework.1010PM on 18 Jan 19",
+       "description": "Creating issue form REST Automation Framework",
+       "issuetype": {
+          "name": "Bug"
+       }
+   }
+}
